@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
+  "repository": "git@github.com:Zemnmez/xdm-next.git",
+  "homepage": "https://github.com/Zemnmez/xdm-next",
   "devDependencies": {
     "@tsconfig/node14": "^1.0.0",
     "@types/node": "^14.14.37",
